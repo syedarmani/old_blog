@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Numpy Fundamentals"
+permalink: /blog/numpy-fundamentals
+categories: Machine-Learning
 ---
 
 NumPy stands for _Numerical Python_. It provides fast mathematical computation on arrays and matrices. In NumPy, dimensions are called axes. The number of axes is called the rank. The easiest way to create an array is to use the array function.
