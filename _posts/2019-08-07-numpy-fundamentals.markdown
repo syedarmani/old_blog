@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Numpy Fundamentals"
+title:  "NumPy Fundamentals"
 permalink: /blog/numpy-fundamentals
 categories: Machine-Learning
 ---
